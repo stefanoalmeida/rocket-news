@@ -117,6 +117,20 @@ body {
   color: white;
 }
 
+#footer {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+
+  margin-top: 50px;
+}
+
+#footer > p {
+  color: #8257E5;
+  font-weight: 700;
+  font-size: 14px;
+}
+
 #cover img {
   width: 720px;
   height: 100vh;
